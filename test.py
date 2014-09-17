@@ -17,3 +17,4 @@ oChild =Child()
 oChild.add("str1")
 print oChild.data
 print oChild.plus(2,3)
+#test
